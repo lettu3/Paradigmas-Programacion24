@@ -2,7 +2,7 @@
 
 - Laboratorio 1: Programación funcional
 
-  Crear un DSL para dibujar figuras de Escher en Haskell
+  Crear un DSL para dibujar [figuras de Escher](https://cs.famaf.unc.edu.ar/~mpagano/henderson-funcgeo2.pdf) en Haskell
 
 
 - Laboratorio 2: Programación orientada a objetos
