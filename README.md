@@ -1,11 +1,11 @@
 # Paradigmas de Programacion
 
-- Laboratorio 1: programación funcional
+- Laboratorio 1: Programación funcional
 
   Crear un DSL para dibujar figuras de Escher en Haskell
 
 
-- Laboratorio 2: programación orientada a objetos
+- Laboratorio 2: Programación orientada a objetos
  
   Un pipeline para extracción de entidades nombradas a partir de Feeds RSS y Reddit en Java
 
