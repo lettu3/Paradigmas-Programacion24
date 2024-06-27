@@ -13,3 +13,6 @@
 - Laboratorio 3: Frameworks - paralelismo
   
   El mismo pipeline pero utilizando paralelismo, en Java + Spark 
+
+
+Los 3 laboratorios fueron realizados en conjunto por Nahuel Fernandez, Ignacio Gomez Barrios y Luciano Rojo
