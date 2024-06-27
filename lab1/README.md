@@ -1,6 +1,6 @@
 ---
 title: Laboratorio de Funcional
-author: acá van sus nombres
+author: Nahuel Fernandez, Ignacio Gomez Barrios, Luciano Rojo
 ---
 La consigna del laboratorio está en https://tinyurl.com/funcional-2024-famaf
 
